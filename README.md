@@ -6,6 +6,7 @@
 3) Entrez un pseudo, un mail et un mot de passe d'au moins 6 caracteres.
 Pour créer le systeme d'authentification j'ai utilisé Google Authentification. Le SQLite intervient
 ici aussi car il stocke le pseudo et le mail en tant que clé primaire pour se souvenir du pseudo de la personne.
+Le pseudo s'affichera en haut de la page d'accueil.
 
 4) Lorsque vous avez cliqué sur "S'inscrire" vous serez redirigé vers la page de connexion ou vous 
 pourrez vous connecter, connectez vous.
